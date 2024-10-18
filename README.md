@@ -10,15 +10,15 @@
 
 # About Me
 
-- 🔭 I’m currently working on **lots.. of projects.. uh..**
+- <img align="centre" alt="kitty" width="30" src="https://img1.picmix.com/output/stamp/normal/7/5/4/6/2316457_93cc3.gif"> I’m currently working on **lots.. of projects.. uh..**
 
-- 🌱 Mostly self-taught, I’m currently learning **Flutter!**
+- <img align="centre" alt="kitty" width="30" src="https://img1.picmix.com/output/stamp/normal/1/9/8/8/2338891_21ad2.gif"> Mostly self-taught, I’m currently learning **Flutter!**
 
-- 👨‍💻 All of my projects are available at [HERE!](https://github.com/afia45)
+- <img align="centre" alt="kitty" width="30" src="https://img1.picmix.com/output/stamp/normal/6/6/2/2/2562266_bea68.gif"> All of my projects are available at [HERE!](https://github.com/afia45)
 
 <!--- 📝 I regularly write articles on [(I'll update soon)]()-->
 
-- 📫 How to reach me **afia.tabassum45@gmail.com**
+- <img align="centre" alt="kitty" width="30" src="https://img1.picmix.com/output/stamp/normal/1/5/9/8/2338951_27b59.gif"> How to reach me **afia.tabassum45@gmail.com**
 
 <!--<h3 align="left">Other sites:</h3>
 <p align="left">
@@ -32,3 +32,7 @@
 
 # Github Stats
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=afia45&show_icons=true&locale=en&layout=compact" alt="afia45" /></p>
+
+
+
+<!--Cat Gif stickers (https://en.picmix.com/stamp?search=cat+pixel)-->
