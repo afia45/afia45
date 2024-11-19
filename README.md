@@ -1,5 +1,6 @@
 
-<h1 align="center">Hello! I'm Afia Tabassum 🌸</h1>
+<h1 align="center">Hi there! Welcome!</h1>
+<h1 align="center">I'm Afia Tabassum 🌸</h1>
 <h3 align="center">A passionate frontend web developer & flutter developer from :bangladesh:</h3>
 
 <p align="center">
@@ -14,7 +15,7 @@
 
 - <img align="centre" alt="kitty" width="30" src="https://img1.picmix.com/output/stamp/normal/1/9/8/8/2338891_21ad2.gif"> Mostly self-taught, I’m currently learning **Flutter!**
 
-- <img align="centre" alt="kitty" width="30" src="https://img1.picmix.com/output/stamp/normal/6/6/2/2/2562266_bea68.gif"> All of my projects are available at [HERE!](https://github.com/afia45)
+- <img align="centre" alt="kitty" width="30" src="https://img1.picmix.com/output/stamp/normal/6/6/2/2/2562266_bea68.gif"> All of my projects are available at here!
 
 <!--- 📝 I regularly write articles on [(I'll update soon)]()-->
 
