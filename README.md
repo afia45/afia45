@@ -1,6 +1,5 @@
 
-<h1 align="center">Hi there! Welcome!</h1>
-<h1 align="center">I'm Afia Tabassum 🌸</h1>
+<h1 align="center">Hi! I'm Afia Tabassum 🌸</h1>
 <h3 align="center">A passionate frontend web developer & flutter developer from :bangladesh:</h3>
 
 <p align="center">
