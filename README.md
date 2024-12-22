@@ -11,7 +11,7 @@
 
 # About Me
 
-- <img align="centre" alt="kitty" width="30" src="https://img1.picmix.com/output/stamp/normal/7/5/4/6/2316457_93cc3.gif"> I’m currently working on **lots.. of projects.. uh..**
+- <img align="centre" alt="kitty" width="30" src="https://img1.picmix.com/output/stamp/normal/7/5/4/6/2316457_93cc3.gif"> I’m currently working with **Dart, Rasa, Firebase, etc**
 
 - <img align="centre" alt="kitty" width="30" src="https://img1.picmix.com/output/stamp/normal/1/9/8/8/2338891_21ad2.gif"> Mostly self-taught, I’m currently learning **Flutter!**
 
@@ -20,6 +20,7 @@
 <!--- 📝 I regularly write articles on [(I'll update soon)]()-->
 
 - <img align="centre" alt="kitty" width="30" src="https://img1.picmix.com/output/stamp/normal/1/5/9/8/2338951_27b59.gif"> How to reach me **afia.tabassum45@gmail.com**
+
 
 <!--<h3 align="left">Other sites:</h3>
 <p align="left">
@@ -38,3 +39,4 @@
 
 <!--Cat Gif stickers (https://en.picmix.com/stamp?search=cat+pixel)-->
 ![Profile Views](https://komarev.com/ghpvc/?username=afia45&color=blueviolet&abbreviated=true&style=flat-square)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afia-tabassum-805361213/)
