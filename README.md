@@ -3,6 +3,7 @@
 <h3 align="center">A passionate frontend web developer & flutter developer from :bangladesh:</h3>
 
 <p align="center">
+  
   <img align="centre" alt="kitty" width="300" src="https://img1.picmix.com/output/stamp/normal/8/5/1/2/2452158_23a49.gif">
   <!--<img align="centre" alt="kitty" width="300" src="https://img1.picmix.com/output/stamp/normal/2/9/7/0/1910792_352f9.gif">-->
 </p>
@@ -36,3 +37,4 @@
 
 
 <!--Cat Gif stickers (https://en.picmix.com/stamp?search=cat+pixel)-->
+![Profile Views](https://komarev.com/ghpvc/?username=afia45&color=blueviolet&abbreviated=true&style=flat-square)
