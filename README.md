@@ -58,4 +58,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afia-tabassum-805361213/)
 -->
 
+### Acknowledgments
+
+This README was inspired by Github Profile Stats repos created by:
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats/)
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats/)
 
