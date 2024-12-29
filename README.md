@@ -10,7 +10,10 @@
 
 <p align="center"> 
 <img align="centre" src="https://komarev.com/ghpvc/?username=afia45&color=blueviolet&abbreviated=true&style=flat-square" alt="afia45's Profile Visits" />
-<img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afia-tabassum-805361213/" alt="afia45's Profile Visits" />
+<a href="https://www.linkedin.com/in/afia-tabassum-805361213/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="afia45's LinkedIn Profile" />
+</a>
+
 
 
 # About Me
