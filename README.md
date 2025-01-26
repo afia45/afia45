@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi! I'm Afia Tabassum 🌸</h1>
-<h3 align="center">A passionate frontend web developer & flutter developer from :bangladesh:</h3>
+<h3 align="center">A passionate frontend web, flutter developer & software engineer from :bangladesh:</h3>
 
 <p align="center">
   
