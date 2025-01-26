@@ -50,7 +50,7 @@
 </br>
 ![Afia's GitHub stats](https://github-readme-stats.vercel.app/api?username=afia45&show_icons=true&theme=radical)
 </br>
-![Afia's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=afia45&theme=radical)
+<!--![Afia's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=afia45&theme=radical)-->
 
 <!--
 # Links
