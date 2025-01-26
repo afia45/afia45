@@ -22,7 +22,7 @@
 
 - <img align="centre" alt="kitty" width="30" src="https://img1.picmix.com/output/stamp/normal/1/9/8/8/2338891_21ad2.gif"> Mostly self-taught, I’m currently learning **Flutter!**
 
-- <img align="centre" alt="kitty" width="30" src="https://img1.picmix.com/output/stamp/normal/6/6/2/2/2562266_bea68.gif"> All of my projects are available here!
+- <img align="centre" alt="kitty" width="30" src="https://img1.picmix.com/output/stamp/normal/6/6/2/2/2562266_bea68.gif"> All of my projects are available here! Please check my pins!
 
 <!--- 📝 I regularly write articles on [(I'll update soon)]()-->
 
