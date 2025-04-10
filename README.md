@@ -20,7 +20,7 @@
 
 # About Me
 
-- <img align="centre" alt="kitty" width="30" src="https://img1.picmix.com/output/stamp/normal/7/5/4/6/2316457_93cc3.gif"> I’m currently working with **Dart, Rasa, Firebase, etc**
+- <img align="centre" alt="kitty" width="30" src="https://img1.picmix.com/output/stamp/normal/7/5/4/6/2316457_93cc3.gif"> I’m currently working with **Building E-Commerce Web App using MERN Stack**
 
 - <img align="centre" alt="kitty" width="30" src="https://img1.picmix.com/output/stamp/normal/1/9/8/8/2338891_21ad2.gif"> Mostly self-taught, I’m currently learning **Flutter & MERN!**
 
